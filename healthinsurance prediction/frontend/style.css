@@ -1,0 +1,40 @@
+
+body {
+    background: #eef2f7;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 18px;
+}
+
+h2 {
+    color: #174ea6;
+    font-weight: 700;
+}
+
+.form-control,
+.form-select {
+    padding: 11px;
+    border-radius: 8px;
+}
+
+.btn-primary {
+    padding: 12px;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+.result-box {
+    padding: 20px;
+    border-radius: 12px;
+    background: #e5f7eb;
+    text-align: center;
+    overflow-wrap: anywhere;
+}
+
+.result-box h3 {
+    color: #157347;
+    font-weight: 700;
+}
