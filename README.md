@@ -63,6 +63,3 @@ health-insurance-prediction/
 
 ## Note
 This project is developed for educational purposes as a Machine Learning mini project.
-
-## Author
-Your Name
